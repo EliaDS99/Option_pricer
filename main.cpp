@@ -19,8 +19,8 @@
 #include <numeric>
 #include <random>
 #include <chrono>
-#include <iomanip> // Formatting
-#include <omp.h>   // OpenMP
+#include <iomanip>
+#include <omp.h>
 
 // Struttura risultati
 struct SimulationResult {
